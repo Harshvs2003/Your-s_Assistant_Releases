@@ -188,7 +188,7 @@ If this project helps you, consider supporting:
 
 **Scan to support:**
 
-<img src="assets/bmc_qr.png" alt="BuyMeACoffee QR" width="150" />
+<img src="assets/bmc_qr.png" alt="BuyMeACoffee QR" width="10" />
 
 **GitHub Sponsors**
 [https://github.com/sponsors/Harshvs2003](https://github.com/sponsors/Harshvs2003)
