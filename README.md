@@ -183,19 +183,19 @@ When reporting issues, include:
 
 If this project helps you, consider supporting:
 
- **Buy Me a Coffee**
-  [BuyMeACoffee](https://buymeacoffee.com/assistantapp)
+ * **Buy Me a Coffee**
+    [BuyMeACoffee](https://buymeacoffee.com/assistantapp)
 
- **Scan to support:**
+ * **Scan to support:**
 
-  <img src="assets/bmc_qr.png" alt="BuyMeACoffee QR" width="320" />
+    <img src="assets/bmc_qr.png" alt="BuyMeACoffee QR" width="320" />
 
- **GitHub Sponsors**
+ * **GitHub Sponsors**
   [https://github.com/sponsors/Harshvs2003](https://github.com/sponsors/Harshvs2003)
 
- **UPI Support (India)**
+ * **UPI Support (India)**
 
-  Scan to send support via UPI:
+  * Scan to send support via UPI:
 
   <img src="assets/Payment-UPI-QR.jpeg" alt="UPI SUPPORT QR" width="320" />
 
