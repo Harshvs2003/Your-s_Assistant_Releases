@@ -188,7 +188,7 @@ If this project helps you, consider supporting:
 
 **Scan to support:**
 
-<img src="assets/bmc_qr.png" alt="BuyMeACoffee QR" width="280" />
+<img src="assets/bmc_qr.png" alt="BuyMeACoffee QR" width="320" />
 
 **GitHub Sponsors**
 [https://github.com/sponsors/Harshvs2003](https://github.com/sponsors/Harshvs2003)
@@ -197,8 +197,8 @@ If this project helps you, consider supporting:
 
 Scan to send support via UPI:
 
-![UPI QR](assets/Payment-UPI-QR.jpeg)
----
+<img src="assets/Payment-UPI-QR.jpeg" alt="UPI SUPPORT QR" width="320" />
+
 
 ## 📄 License
 
