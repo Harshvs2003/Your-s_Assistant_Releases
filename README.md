@@ -191,13 +191,13 @@ If this project helps you, consider supporting:
     <img src="assets/bmc_qr.png" alt="BuyMeACoffee QR" width="320" />
 
  * **GitHub Sponsors**
-  [https://github.com/sponsors/Harshvs2003](https://github.com/sponsors/Harshvs2003)
+    [https://github.com/sponsors/Harshvs2003](https://github.com/sponsors/Harshvs2003)
 
  * **UPI Support (India)**
 
-  * Scan to send support via UPI:
+   Scan to send support via UPI:
 
-  <img src="assets/Payment-UPI-QR.jpeg" alt="UPI SUPPORT QR" width="320" />
+    <img src="assets/Payment-UPI-QR.jpeg" alt="UPI SUPPORT QR" width="320" />
 
 
 ## 📄 License
